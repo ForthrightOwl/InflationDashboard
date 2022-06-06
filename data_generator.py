@@ -1,7 +1,7 @@
 import bls
 
 """Input paramaters"""
-BLS_API_KEY='4749483bcbbc4ef897423b6b4f6a6b35'
+BLS_API_KEY=''
 start_year = "1920"
 
 """Lists of series codes to be pulled for each dataset"""
